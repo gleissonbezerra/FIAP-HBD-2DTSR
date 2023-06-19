@@ -4,7 +4,7 @@ import os
 # Set up the model and prompt
 model_engine = "text-davinci-003"
 
-openai.api_key = "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"
+openai.api_key = ""
 
 while True:
     
